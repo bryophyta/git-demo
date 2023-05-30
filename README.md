@@ -1,3 +1,3 @@
 # git-demo
 
-This is a readme for a demo project
+This is a readme for a demo.
